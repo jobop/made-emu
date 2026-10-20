@@ -1,0 +1,7 @@
+# 预编译模拟器二进制（install.sh / release 下载）
+bin/
+# 本机构建产物
+build/
+*.o
+# 系统
+.DS_Store

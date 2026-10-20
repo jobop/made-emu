@@ -1,0 +1,4 @@
+# made emu 构建覆盖项
+# 连接 esp-emu 内置 WiFi SoftAP（默认 SSID/密码，可用 esp-emu --wifi-ssid 覆盖）
+CONFIG_VIBE_WIFI_SSID="myssid"
+CONFIG_VIBE_WIFI_PASSWORD="mypassword"
